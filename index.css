@@ -1,0 +1,46 @@
+body {
+    min-height: 100vh;
+    margin: 0;
+    background-color: #1B244A;
+    font-family: 'Cursed Timer ULiL', monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h3{
+    color: #EEEEEE;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: -50px;
+}
+
+h1{
+    color: #F94F6D;
+    background-color: black;
+    border-radius: 16px;
+    text-align: center;
+    align-content: center;
+    font-size: 90px;
+    font-weight: 400;
+     width: 155px;
+     height: 120px;
+     margin-bottom: 20px;
+}
+
+button{
+    color: #9AABD8;
+    background: transparent;
+    border-color: #9AABD8;
+    height: 45px;
+    width: 45px;
+    border-radius: 12px; 
+    border-width: 3px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+}
